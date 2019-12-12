@@ -1,1 +1,2 @@
 *.php linguist-language=PHP
+*.sql linguist-language=PHP
